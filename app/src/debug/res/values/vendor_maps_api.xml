@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=2A:7E:A8:5C:6A:C5:FE:82:B1:BB:8C:6E:DB:BB:C2:C4:02:18:3F:A7%3Bkr.co.leehana.lighthouse
+
+    You can also add your credentials to an existing key, using this line:
+    2A:7E:A8:5C:6A:C5:FE:82:B1:BB:8C:6E:DB:BB:C2:C4:02:18:3F:A7;kr.co.leehana.lighthouse
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBs3jRYLOI122w8BDh_UX-u_seY5XNHvBA</string>
+    <string name="naver_maps_key" translatable="false">0d14b544f3bca7929143216496daadff</string>
+    <string name="daum_maps_key" translatable="false">ba90fd627b46a41346941dbbba084fa7</string>
+</resources>
